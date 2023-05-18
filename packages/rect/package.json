@@ -16,20 +16,20 @@
 		"build": "tsup"
 	},
 	"dependencies": {
-		"@blinq-reach/observe-rect": "1.2.0",
+		"@reach/observe-rect": "1.2.0",
 		"@blinq-reach/utils": "workspace:*"
 	},
 	"devDependencies": {
 		"@reach-internal/dev": "workspace:*",
 		"@reach-internal/test": "workspace:*",
 		"@reach-internal/tsconfig": "workspace:*",
-		"react": "^17.0.2",
-		"react-dom": "^17.0.2",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0",
 		"tsup": "^6.1.3"
 	},
 	"peerDependencies": {
-		"react": "^16.8.0 || 17.x",
-		"react-dom": "^16.8.0 || 17.x"
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0"
 	},
 	"main": "./src/reach-rect.tsx",
 	"types": "./src/reach-rect.tsx",

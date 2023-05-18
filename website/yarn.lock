@@ -2108,7 +2108,7 @@
   resolved "https://registry.yarnpkg.com/@reach/rect/-/rect-0.15.2.tgz#734e3f17a499d6e22bd2ea95856c801c41ed66fd"
   integrity sha512-S2lzvvfclUHdvgcfW/eoz0i729HJvG5f6ayVaXcKz+X6LKF9i9Jdhfwsz7b3UmnSCihKNs0cX5tyWfWr1E1JFw==
   dependencies:
-    "@blinq-reach/observe-rect" "1.2.0"
+    "@reach/observe-rect" "1.2.0"
     "@blinq-reach/utils" "0.15.2"
     prop-types "^15.7.2"
     tiny-warning "^1.0.3"
@@ -2117,7 +2117,7 @@
 "@reach/rect@file:../packages/rect":
   version "0.15.2"
   dependencies:
-    "@blinq-reach/observe-rect" "1.2.0"
+    "@reach/observe-rect" "1.2.0"
     "@blinq-reach/utils" "0.15.2"
     prop-types "^15.7.2"
     tiny-warning "^1.0.3"

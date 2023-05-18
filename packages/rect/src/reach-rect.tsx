@@ -9,7 +9,7 @@
  */
 
 import * as React from "react";
-import observeRect from "@blinq-reach/observe-rect";
+import observeRect from "@reach/observe-rect";
 import {
 	useIsomorphicLayoutEffect as useLayoutEffect,
 	isBoolean,
