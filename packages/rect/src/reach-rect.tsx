@@ -9,12 +9,12 @@
  */
 
 import * as React from "react";
-import observeRect from "@reach/observe-rect";
+import observeRect from "@blinq-reach/observe-rect";
 import {
 	useIsomorphicLayoutEffect as useLayoutEffect,
 	isBoolean,
 	isFunction,
-} from "@reach/utils";
+} from "@blinq-reach/utils";
 
 declare const __DEV__: boolean;
 

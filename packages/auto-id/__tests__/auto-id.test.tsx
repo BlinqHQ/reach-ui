@@ -6,7 +6,7 @@ import { render, cleanup } from "@reach-internal/test/utils";
 import { vi, it, expect, describe, afterEach } from "vitest";
 
 const { useId } = await vi.importActual<typeof import("../src/auto-id")>(
-	"@reach/auto-id"
+	"@blinq-reach/auto-id"
 );
 
 afterEach(cleanup);

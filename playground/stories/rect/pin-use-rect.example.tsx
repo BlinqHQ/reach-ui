@@ -1,5 +1,5 @@
 import * as React from "react";
-import { useRect } from "@reach/rect";
+import { useRect } from "@blinq-reach/rect";
 
 let name = "Pin element to another (useRect)";
 

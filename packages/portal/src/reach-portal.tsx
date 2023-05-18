@@ -15,7 +15,7 @@ import * as React from "react";
 import {
 	useForceUpdate,
 	useIsomorphicLayoutEffect as useLayoutEffect,
-} from "@reach/utils";
+} from "@blinq-reach/utils";
 import { createPortal } from "react-dom";
 
 declare const __DEV__: boolean;

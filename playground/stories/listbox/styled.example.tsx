@@ -6,7 +6,7 @@ import {
 	ListboxOption,
 	ListboxList,
 	ListboxPopover,
-} from "@reach/listbox";
+} from "@blinq-reach/listbox";
 import styled from "styled-components";
 import "@reach/listbox/styles.css";
 

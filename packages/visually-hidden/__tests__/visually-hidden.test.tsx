@@ -2,7 +2,7 @@
 /// <reference types="vitest-dom/extend-expect" />
 
 import * as React from "react";
-import { VisuallyHidden } from "@reach/visually-hidden";
+import { VisuallyHidden } from "@blinq-reach/visually-hidden";
 import { describe, it, expect, afterEach } from "vitest";
 import { render, cleanup } from "@reach-internal/test/utils";
 

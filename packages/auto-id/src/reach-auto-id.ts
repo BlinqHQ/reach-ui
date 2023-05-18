@@ -57,7 +57,7 @@
 /* eslint-disable react-hooks/rules-of-hooks */
 
 import * as React from "react";
-import { useIsomorphicLayoutEffect as useLayoutEffect } from "@reach/utils";
+import { useIsomorphicLayoutEffect as useLayoutEffect } from "@blinq-reach/utils";
 
 let serverHandoffComplete = false;
 let id = 0;

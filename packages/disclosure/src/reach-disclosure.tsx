@@ -22,9 +22,9 @@ import {
 	useComposedRefs,
 	composeEventHandlers,
 	useControlledState,
-} from "@reach/utils";
-import type * as Polymorphic from "@reach/polymorphic";
-import { useId } from "@reach/auto-id";
+} from "@blinq-reach/utils";
+import type * as Polymorphic from "@blinq-reach/polymorphic";
+import { useId } from "@blinq-reach/auto-id";
 
 const [DisclosureProvider, useDisclosureCtx] =
 	createContext<DisclosureContextValue>("Disclosure");

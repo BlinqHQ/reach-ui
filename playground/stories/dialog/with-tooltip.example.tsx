@@ -1,6 +1,6 @@
 import * as React from "react";
-import { Dialog } from "@reach/dialog";
-import { Tooltip } from "@reach/tooltip";
+import { Dialog } from "@blinq-reach/dialog";
+import { Tooltip } from "@blinq-reach/tooltip";
 import "@reach/dialog/styles.css";
 import "@reach/tooltip/styles.css";
 

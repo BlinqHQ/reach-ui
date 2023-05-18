@@ -5,14 +5,14 @@ import {
 	ComboboxList,
 	ComboboxOption as ReachComboboxOption,
 	ComboboxPopover,
-} from "@reach/combobox";
+} from "@blinq-reach/combobox";
 import { useCityMatch } from "./utils";
 import "@reach/combobox/styles.css";
 
 import type {
 	ComboboxProps as ReachComboboxProps,
 	ComboboxOptionProps as ReachComboboxOptionProps,
-} from "@reach/combobox";
+} from "@blinq-reach/combobox";
 
 let name = "With Custom onSelect Data (TS)";
 

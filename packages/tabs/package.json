@@ -1,5 +1,5 @@
 {
-	"name": "@reach/tabs",
+	"name": "@blinq-reach/tabs",
 	"version": "0.18.0",
 	"description": "Accessible React Tabs Component",
 	"author": "React Training <hello@reacttraining.com>",
@@ -16,10 +16,10 @@
 		"build": "tsup"
 	},
 	"dependencies": {
-		"@reach/auto-id": "workspace:*",
-		"@reach/descendants": "workspace:*",
-		"@reach/polymorphic": "workspace:*",
-		"@reach/utils": "workspace:*"
+		"@blinq-reach/auto-id": "workspace:*",
+		"@blinq-reach/descendants": "workspace:*",
+		"@blinq-reach/polymorphic": "workspace:*",
+		"@blinq-reach/utils": "workspace:*"
 	},
 	"devDependencies": {
 		"@reach-internal/dev": "workspace:*",

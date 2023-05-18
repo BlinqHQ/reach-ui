@@ -1,5 +1,5 @@
 {
-	"name": "@reach/machine",
+	"name": "@blinq-reach/machine",
 	"version": "0.18.0",
 	"description": "State machine utilities for the Reach UI library.",
 	"author": "React Training <hello@reacttraining.com>",
@@ -16,7 +16,7 @@
 		"build": "tsup"
 	},
 	"dependencies": {
-		"@reach/utils": "workspace:*",
+		"@blinq-reach/utils": "workspace:*",
 		"@xstate/fsm": "1.4.0"
 	},
 	"devDependencies": {

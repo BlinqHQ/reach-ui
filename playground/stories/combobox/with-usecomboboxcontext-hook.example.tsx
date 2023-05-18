@@ -1,5 +1,5 @@
 import * as React from "react";
-import type { ComboboxInputProps } from "@reach/combobox";
+import type { ComboboxInputProps } from "@blinq-reach/combobox";
 import {
 	Combobox,
 	ComboboxInput,
@@ -7,7 +7,7 @@ import {
 	ComboboxOption,
 	ComboboxPopover,
 	useComboboxContext,
-} from "@reach/combobox";
+} from "@blinq-reach/combobox";
 import "@reach/combobox/styles.css";
 
 let name = "With useComboboxContext (TS)";

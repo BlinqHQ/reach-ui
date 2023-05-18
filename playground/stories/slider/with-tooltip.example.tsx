@@ -1,12 +1,12 @@
 import * as React from "react";
-import { useTooltip, TooltipPopup } from "@reach/tooltip";
-import type { Position } from "@reach/tooltip";
+import { useTooltip, TooltipPopup } from "@blinq-reach/tooltip";
+import type { Position } from "@blinq-reach/tooltip";
 import {
 	SliderInput,
 	SliderHandle,
 	SliderTrack,
 	SliderRange,
-} from "@reach/slider";
+} from "@blinq-reach/slider";
 import "@reach/tooltip/styles.css";
 import "@reach/slider/styles.css";
 import "./examples.css";

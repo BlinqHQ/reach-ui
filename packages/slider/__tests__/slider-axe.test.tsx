@@ -4,7 +4,7 @@
 import * as React from "react";
 import { cleanup, render } from "@reach-internal/test/utils";
 import { axe } from "vitest-axe";
-import { Slider } from "@reach/slider";
+import { Slider } from "@blinq-reach/slider";
 import { afterEach, describe, expect, it, vi } from "vitest";
 
 afterEach(cleanup);

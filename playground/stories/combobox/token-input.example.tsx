@@ -5,9 +5,9 @@ import {
 	ComboboxList,
 	ComboboxOption,
 	ComboboxPopover,
-} from "@reach/combobox";
-import type { ComboboxProps, ComboboxInputProps } from "@reach/combobox";
-import { composeEventHandlers } from "@reach/utils";
+} from "@blinq-reach/combobox";
+import type { ComboboxProps, ComboboxInputProps } from "@blinq-reach/combobox";
+import { composeEventHandlers } from "@blinq-reach/utils";
 import { useCityMatch } from "./utils";
 import "@reach/combobox/styles.css";
 

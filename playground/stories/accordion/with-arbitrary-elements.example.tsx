@@ -4,10 +4,10 @@ import {
 	AccordionItem,
 	AccordionButton,
 	AccordionPanel,
-} from "@reach/accordion";
+} from "@blinq-reach/accordion";
 import { action } from "@storybook/addon-actions";
-import { VisuallyHidden } from "@reach/visually-hidden";
-import { Menu, MenuList, MenuButton, MenuItem } from "@reach/menu-button";
+import { VisuallyHidden } from "@blinq-reach/visually-hidden";
+import { Menu, MenuList, MenuButton, MenuItem } from "@blinq-reach/menu-button";
 import "@reach/accordion/styles.css";
 import "@reach/menu-button/styles.css";
 

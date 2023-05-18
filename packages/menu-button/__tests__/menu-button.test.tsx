@@ -11,7 +11,7 @@ import {
 	simulateSpaceKeyClick,
 	simulateEnterKeyClick,
 } from "@reach-internal/test/utils";
-import { Menu, MenuList, MenuButton, MenuItem } from "@reach/menu-button";
+import { Menu, MenuList, MenuButton, MenuItem } from "@blinq-reach/menu-button";
 import { afterEach, beforeEach, describe, expect, it, vi } from "vitest";
 
 afterEach(cleanup);

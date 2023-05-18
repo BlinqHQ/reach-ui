@@ -5,7 +5,7 @@ import {
 	AccordionItem,
 	AccordionButton,
 	AccordionPanel,
-} from "@reach/accordion";
+} from "@blinq-reach/accordion";
 import styled from "styled-components";
 
 let name = "With Arrows";

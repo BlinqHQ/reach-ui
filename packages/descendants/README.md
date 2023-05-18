@@ -251,7 +251,7 @@ import {
 	DescendantProvider,
 	useDescendant,
 	useDescendantsInit,
-} from "@reach/descendants";
+} from "@blinq-reach/descendants";
 
 let DescendantContext = createDescendantContext("DescendantContext");
 let MenuContext = createContext();

@@ -25,9 +25,9 @@
  */
 
 import * as React from "react";
-import { useId } from "@reach/auto-id";
-import { Popover, positionMatchWidth } from "@reach/popover";
-import type { PopoverProps } from "@reach/popover";
+import { useId } from "@blinq-reach/auto-id";
+import { Popover, positionMatchWidth } from "@blinq-reach/popover";
+import type { PopoverProps } from "@blinq-reach/popover";
 import {
 	createDescendantContext,
 	DescendantProvider,
@@ -35,8 +35,8 @@ import {
 	useDescendantKeyDown,
 	useDescendants,
 	useDescendantsInit,
-} from "@reach/descendants";
-import type { Descendant } from "@reach/descendants";
+} from "@blinq-reach/descendants";
+import type { Descendant } from "@blinq-reach/descendants";
 import {
 	composeEventHandlers,
 	createNamedContext,
@@ -50,11 +50,11 @@ import {
 	useIsomorphicLayoutEffect as useLayoutEffect,
 	useStableCallback,
 	useStatefulRefValue,
-} from "@reach/utils";
-import type { DistributiveOmit } from "@reach/utils";
-import type * as Polymorphic from "@reach/polymorphic";
-import { useMachine, useCreateMachine } from "@reach/machine";
-import type { StateMachine } from "@reach/machine";
+} from "@blinq-reach/utils";
+import type { DistributiveOmit } from "@blinq-reach/utils";
+import type * as Polymorphic from "@blinq-reach/polymorphic";
+import { useMachine, useCreateMachine } from "@blinq-reach/machine";
+import type { StateMachine } from "@blinq-reach/machine";
 import {
 	createMachineDefinition,
 	ListboxEvents,

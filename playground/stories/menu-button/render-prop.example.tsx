@@ -1,6 +1,6 @@
 import * as React from "react";
 import { action } from "@storybook/addon-actions";
-import { Menu, MenuList, MenuButton, MenuItem } from "@reach/menu-button";
+import { Menu, MenuList, MenuButton, MenuItem } from "@blinq-reach/menu-button";
 import "@reach/menu-button/styles.css";
 
 let name = "Render Prop";

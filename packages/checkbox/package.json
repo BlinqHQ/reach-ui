@@ -1,5 +1,5 @@
 {
-	"name": "@reach/checkbox",
+	"name": "@blinq-reach/checkbox",
 	"version": "0.18.0",
 	"description": "Accessible components to build custom, tri-state checkboxes in React.",
 	"author": "React Training <hello@reacttraining.com>",
@@ -17,10 +17,10 @@
 		"build": "tsup"
 	},
 	"dependencies": {
-		"@reach/auto-id": "workspace:*",
-		"@reach/machine": "workspace:*",
-		"@reach/polymorphic": "workspace:*",
-		"@reach/utils": "workspace:*"
+		"@blinq-reach/auto-id": "workspace:*",
+		"@blinq-reach/machine": "workspace:*",
+		"@blinq-reach/polymorphic": "workspace:*",
+		"@blinq-reach/utils": "workspace:*"
 	},
 	"devDependencies": {
 		"@reach-internal/dev": "workspace:*",

@@ -11,16 +11,16 @@
  */
 
 import * as React from "react";
-import { Portal } from "@reach/portal";
-import type { PortalProps } from "@reach/portal";
+import { Portal } from "@blinq-reach/portal";
+import type { PortalProps } from "@blinq-reach/portal";
 import {
 	composeEventHandlers,
 	createContext,
 	getOwnerDocument,
 	noop,
 	useComposedRefs,
-} from "@reach/utils";
-import type * as Polymorphic from "@reach/polymorphic";
+} from "@blinq-reach/utils";
+import type * as Polymorphic from "@blinq-reach/polymorphic";
 import FocusLock from "react-focus-lock";
 import { RemoveScroll } from "react-remove-scroll";
 

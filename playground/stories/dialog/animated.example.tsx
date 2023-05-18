@@ -1,5 +1,5 @@
 import React from "react";
-import { DialogOverlay, DialogContent } from "@reach/dialog";
+import { DialogOverlay, DialogContent } from "@blinq-reach/dialog";
 import { animated, useTransition } from "@react-spring/web";
 import "@reach/dialog/styles.css";
 

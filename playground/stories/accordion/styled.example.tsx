@@ -4,7 +4,7 @@ import {
 	AccordionItem,
 	AccordionButton,
 	AccordionPanel,
-} from "@reach/accordion";
+} from "@blinq-reach/accordion";
 import styled from "styled-components";
 import "@reach/accordion/styles.css";
 

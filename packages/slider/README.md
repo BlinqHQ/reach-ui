@@ -14,7 +14,7 @@ import {
 	SliderRange,
 	SliderHandle,
 	SliderMarker,
-} from "@reach/slider";
+} from "@blinq-reach/slider";
 import "@reach/slider/styles.css";
 
 function Example() {

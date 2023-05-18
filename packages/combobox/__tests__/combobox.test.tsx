@@ -8,7 +8,7 @@ import {
 	withMarkup,
 	userEvent,
 } from "@reach-internal/test/utils";
-import type { ComboboxInputProps } from "@reach/combobox";
+import type { ComboboxInputProps } from "@blinq-reach/combobox";
 import {
 	Combobox,
 	ComboboxInput,
@@ -16,7 +16,7 @@ import {
 	ComboboxOption,
 	ComboboxPopover,
 	useComboboxContext,
-} from "@reach/combobox";
+} from "@blinq-reach/combobox";
 import { matchSorter } from "match-sorter";
 import cities from "./cities";
 import { afterEach, describe, expect, it } from "vitest";

@@ -11,7 +11,7 @@
  */
 
 import * as React from "react";
-import type * as Polymorphic from "@reach/polymorphic";
+import type * as Polymorphic from "@blinq-reach/polymorphic";
 
 /**
  * VisuallyHidden

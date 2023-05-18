@@ -9,7 +9,7 @@ import {
 	AccordionItem,
 	AccordionButton,
 	AccordionPanel,
-} from "@reach/accordion";
+} from "@blinq-reach/accordion";
 import { afterEach, describe, expect, it, vi } from "vitest";
 
 afterEach(cleanup);

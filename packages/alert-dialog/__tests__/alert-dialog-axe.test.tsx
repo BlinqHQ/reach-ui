@@ -9,7 +9,7 @@ import {
 	AlertDialog,
 	AlertDialogLabel,
 	AlertDialogDescription,
-} from "@reach/alert-dialog";
+} from "@blinq-reach/alert-dialog";
 import { describe, it, expect, vi, afterEach } from "vitest";
 
 afterEach(cleanup);

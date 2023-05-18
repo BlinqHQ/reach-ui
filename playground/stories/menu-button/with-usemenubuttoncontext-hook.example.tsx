@@ -6,7 +6,7 @@ import {
 	MenuButton,
 	MenuItem,
 	useMenuButtonContext,
-} from "@reach/menu-button";
+} from "@blinq-reach/menu-button";
 import "@reach/menu-button/styles.css";
 
 let name = "With useMenuButtonContext";

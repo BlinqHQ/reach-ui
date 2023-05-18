@@ -3,7 +3,7 @@ import {
 	Slider,
 	SliderMarker,
 	SLIDER_ORIENTATION_VERTICAL,
-} from "@reach/slider";
+} from "@blinq-reach/slider";
 import "@reach/slider/styles.css";
 import "./examples.css";
 

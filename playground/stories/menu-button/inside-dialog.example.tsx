@@ -1,7 +1,7 @@
 import * as React from "react";
 import { action } from "@storybook/addon-actions";
-import { DialogOverlay, DialogContent } from "@reach/dialog";
-import { Menu, MenuList, MenuButton, MenuItem } from "@reach/menu-button";
+import { DialogOverlay, DialogContent } from "@blinq-reach/dialog";
+import { Menu, MenuList, MenuButton, MenuItem } from "@blinq-reach/menu-button";
 import "@reach/dialog/styles.css";
 import "@reach/menu-button/styles.css";
 

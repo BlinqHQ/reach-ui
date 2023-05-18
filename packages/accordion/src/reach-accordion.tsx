@@ -17,18 +17,18 @@ import {
 	useControlledState,
 	composeEventHandlers,
 	useStatefulRefValue,
-} from "@reach/utils";
-import type * as Polymorphic from "@reach/polymorphic";
+} from "@blinq-reach/utils";
+import type * as Polymorphic from "@blinq-reach/polymorphic";
 import {
 	createDescendantContext,
 	DescendantProvider,
 	useDescendant,
 	useDescendantKeyDown,
 	useDescendantsInit,
-} from "@reach/descendants";
-import { useId } from "@reach/auto-id";
+} from "@blinq-reach/descendants";
+import { useId } from "@blinq-reach/auto-id";
 
-import type { Descendant } from "@reach/descendants";
+import type { Descendant } from "@blinq-reach/descendants";
 
 const AccordionDescendantContext = createDescendantContext<AccordionDescendant>(
 	"AccordionDescendantContext"

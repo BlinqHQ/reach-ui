@@ -5,7 +5,7 @@ import {
 	AccordionButton,
 	AccordionPanel,
 	useAccordionItemContext,
-} from "@reach/accordion";
+} from "@blinq-reach/accordion";
 import { animated, useSpring } from "@react-spring/web";
 import { action } from "@storybook/addon-actions";
 import "@reach/accordion/styles.css";

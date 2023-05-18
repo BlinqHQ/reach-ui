@@ -1,5 +1,5 @@
 {
-	"name": "@reach/alert-dialog",
+	"name": "@blinq-reach/alert-dialog",
 	"version": "0.18.0",
 	"description": "Accessible React Alert Dialog.",
 	"author": "React Training <hello@reacttraining.com>",
@@ -13,10 +13,10 @@
 		"build": "tsup"
 	},
 	"dependencies": {
-		"@reach/auto-id": "workspace:*",
-		"@reach/dialog": "workspace:*",
-		"@reach/polymorphic": "workspace:*",
-		"@reach/utils": "workspace:*",
+		"@blinq-reach/auto-id": "workspace:*",
+		"@blinq-reach/dialog": "workspace:*",
+		"@blinq-reach/polymorphic": "workspace:*",
+		"@blinq-reach/utils": "workspace:*",
 		"tiny-invariant": "^1.2.0"
 	},
 	"devDependencies": {

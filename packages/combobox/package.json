@@ -1,5 +1,5 @@
 {
-	"name": "@reach/combobox",
+	"name": "@blinq-reach/combobox",
 	"version": "0.18.0",
 	"description": "Accessible React Combobox (Autocomplete).",
 	"author": "React Training <hello@reacttraining.com>",
@@ -16,12 +16,12 @@
 		"build": "tsup"
 	},
 	"dependencies": {
-		"@reach/auto-id": "workspace:*",
-		"@reach/descendants": "workspace:*",
-		"@reach/polymorphic": "workspace:*",
-		"@reach/popover": "workspace:*",
-		"@reach/portal": "workspace:*",
-		"@reach/utils": "workspace:*"
+		"@blinq-reach/auto-id": "workspace:*",
+		"@blinq-reach/descendants": "workspace:*",
+		"@blinq-reach/polymorphic": "workspace:*",
+		"@blinq-reach/popover": "workspace:*",
+		"@blinq-reach/portal": "workspace:*",
+		"@blinq-reach/utils": "workspace:*"
 	},
 	"devDependencies": {
 		"@reach-internal/dev": "workspace:*",

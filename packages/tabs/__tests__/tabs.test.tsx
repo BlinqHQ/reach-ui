@@ -16,7 +16,7 @@ import {
 	TabPanel,
 	TabsKeyboardActivation,
 	TabsOrientation,
-} from "@reach/tabs";
+} from "@blinq-reach/tabs";
 import { afterEach, describe, expect, it, vi } from "vitest";
 
 afterEach(cleanup);

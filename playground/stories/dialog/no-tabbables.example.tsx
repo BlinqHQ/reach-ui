@@ -1,6 +1,6 @@
 import * as React from "react";
 import { action } from "@storybook/addon-actions";
-import { Dialog } from "@reach/dialog";
+import { Dialog } from "@blinq-reach/dialog";
 import "@reach/dialog/styles.css";
 
 let name = "No Tabbables";

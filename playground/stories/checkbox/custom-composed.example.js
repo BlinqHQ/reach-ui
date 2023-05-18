@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/accessible-emoji */
 import * as React from "react";
-import { CustomCheckboxContainer, CustomCheckboxInput } from "@reach/checkbox";
+import { CustomCheckboxContainer, CustomCheckboxInput } from "@blinq-reach/checkbox";
 import "@reach/checkbox/styles.css";
 
 let name = "CustomCheckbox Composed";

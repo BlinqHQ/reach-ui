@@ -1,5 +1,5 @@
 {
-	"name": "@reach/listbox",
+	"name": "@blinq-reach/listbox",
 	"version": "0.18.0",
 	"description": "Accessible React listbox input.",
 	"author": "React Training <hello@reacttraining.com>",
@@ -16,12 +16,12 @@
 		"build": "tsup"
 	},
 	"dependencies": {
-		"@reach/auto-id": "workspace:*",
-		"@reach/descendants": "workspace:*",
-		"@reach/machine": "workspace:*",
-		"@reach/polymorphic": "workspace:*",
-		"@reach/popover": "workspace:*",
-		"@reach/utils": "workspace:*",
+		"@blinq-reach/auto-id": "workspace:*",
+		"@blinq-reach/descendants": "workspace:*",
+		"@blinq-reach/machine": "workspace:*",
+		"@blinq-reach/polymorphic": "workspace:*",
+		"@blinq-reach/popover": "workspace:*",
+		"@blinq-reach/utils": "workspace:*",
 		"tiny-invariant": "^1.2.0"
 	},
 	"devDependencies": {

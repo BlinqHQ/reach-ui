@@ -1,5 +1,5 @@
 import * as React from "react";
-import { Tabs, TabList, Tab, TabPanels, TabPanel } from "@reach/tabs";
+import { Tabs, TabList, Tab, TabPanels, TabPanel } from "@blinq-reach/tabs";
 import "@reach/tabs/styles.css";
 
 let name = "Basic";

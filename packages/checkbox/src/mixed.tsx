@@ -36,10 +36,10 @@ import {
 	composeEventHandlers,
 	useIsomorphicLayoutEffect,
 	useComposedRefs,
-} from "@reach/utils";
-import type * as Polymorphic from "@reach/polymorphic";
-import { assign, useCreateMachine, useMachine } from "@reach/machine";
-import type { MachineEventWithRefs, StateMachine } from "@reach/machine";
+} from "@blinq-reach/utils";
+import type * as Polymorphic from "@blinq-reach/polymorphic";
+import { assign, useCreateMachine, useMachine } from "@blinq-reach/machine";
+import type { MachineEventWithRefs, StateMachine } from "@blinq-reach/machine";
 
 // Used for development only, not recommended for production code!
 const DEBUG = false;

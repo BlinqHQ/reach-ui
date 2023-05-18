@@ -4,7 +4,7 @@ import {
 	AccordionItem,
 	AccordionButton,
 	AccordionPanel,
-} from "@reach/accordion";
+} from "@blinq-reach/accordion";
 import "@reach/accordion/styles.css";
 
 let name = "Allow multiple panels + collapse";

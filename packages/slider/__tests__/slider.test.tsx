@@ -9,7 +9,7 @@ import {
 	SliderMarker,
 	SliderTrack,
 	SliderRange,
-} from "@reach/slider";
+} from "@blinq-reach/slider";
 import { afterEach, describe, expect, it } from "vitest";
 
 afterEach(cleanup);

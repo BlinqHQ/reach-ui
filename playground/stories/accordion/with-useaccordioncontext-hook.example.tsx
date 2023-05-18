@@ -6,8 +6,8 @@ import {
 	AccordionPanel,
 	useAccordionContext,
 	useAccordionItemContext,
-} from "@reach/accordion";
-import type { AccordionButtonProps } from "@reach/accordion";
+} from "@blinq-reach/accordion";
+import type { AccordionButtonProps } from "@blinq-reach/accordion";
 import { action } from "@storybook/addon-actions";
 import "@reach/accordion/styles.css";
 

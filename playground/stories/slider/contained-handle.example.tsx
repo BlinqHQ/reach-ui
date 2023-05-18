@@ -1,5 +1,5 @@
 import * as React from "react";
-import { Slider, SLIDER_HANDLE_ALIGN_CONTAIN } from "@reach/slider";
+import { Slider, SLIDER_HANDLE_ALIGN_CONTAIN } from "@blinq-reach/slider";
 import "@reach/slider/styles.css";
 
 let name = "Contained Handle";

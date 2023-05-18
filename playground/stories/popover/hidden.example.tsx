@@ -1,5 +1,5 @@
 import * as React from "react";
-import { Popover } from "@reach/popover";
+import { Popover } from "@blinq-reach/popover";
 
 let name = "Hidden";
 

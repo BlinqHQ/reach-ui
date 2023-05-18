@@ -1,5 +1,5 @@
 {
-	"name": "@reach/auto-id",
+	"name": "@blinq-reach/auto-id",
 	"version": "0.18.0",
 	"description": "Autogenerate IDs to facilitate WAI-ARIA and server rendering.",
 	"author": "React Training <hello@reacttraining.com>",
@@ -16,7 +16,7 @@
 		"build": "tsup"
 	},
 	"dependencies": {
-		"@reach/utils": "workspace:*"
+		"@blinq-reach/utils": "workspace:*"
 	},
 	"devDependencies": {
 		"@reach-internal/dev": "workspace:*",

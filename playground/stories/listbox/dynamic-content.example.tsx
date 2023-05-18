@@ -1,6 +1,6 @@
 import * as React from "react";
-import { VisuallyHidden } from "@reach/visually-hidden";
-import { Listbox, ListboxOption } from "@reach/listbox";
+import { VisuallyHidden } from "@blinq-reach/visually-hidden";
+import { Listbox, ListboxOption } from "@blinq-reach/listbox";
 import "@reach/listbox/styles.css";
 
 let name = "Dynamic content";

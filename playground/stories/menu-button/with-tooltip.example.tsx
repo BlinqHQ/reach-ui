@@ -2,8 +2,8 @@
 
 import * as React from "react";
 import { action } from "@storybook/addon-actions";
-import { Menu, MenuList, MenuButton, MenuItem } from "@reach/menu-button";
-import { Tooltip } from "@reach/tooltip";
+import { Menu, MenuList, MenuButton, MenuItem } from "@blinq-reach/menu-button";
+import { Tooltip } from "@blinq-reach/tooltip";
 import "@reach/menu-button/styles.css";
 import "@reach/tooltip/styles.css";
 

@@ -7,7 +7,7 @@ import {
 	Disclosure,
 	DisclosureButton,
 	DisclosurePanel,
-} from "@reach/disclosure";
+} from "@blinq-reach/disclosure";
 import { afterEach, describe, expect, it, vi } from "vitest";
 
 afterEach(cleanup);

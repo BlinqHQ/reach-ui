@@ -3,7 +3,7 @@ import {
 	DialogInner,
 	unstable_DialogWrapper as DialogWrapper,
 	DialogContent,
-} from "@reach/dialog";
+} from "@blinq-reach/dialog";
 import "@reach/dialog/styles.css";
 
 const name = "Custom Portal Node";

@@ -4,7 +4,7 @@
 import * as React from "react";
 import { cleanup, render } from "@reach-internal/test/utils";
 import { axe } from "vitest-axe";
-import { SkipNavLink, SkipNavContent } from "@reach/skip-nav";
+import { SkipNavLink, SkipNavContent } from "@blinq-reach/skip-nav";
 import { afterEach, describe, expect, it, vi } from "vitest";
 
 afterEach(cleanup);

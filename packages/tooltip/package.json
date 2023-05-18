@@ -1,5 +1,5 @@
 {
-	"name": "@reach/tooltip",
+	"name": "@blinq-reach/tooltip",
 	"version": "0.18.0",
 	"description": "Accessible tooltips",
 	"author": "React Training <hello@reacttraining.com>",
@@ -16,12 +16,12 @@
 		"build": "tsup"
 	},
 	"dependencies": {
-		"@reach/auto-id": "workspace:*",
-		"@reach/polymorphic": "workspace:*",
-		"@reach/portal": "workspace:*",
-		"@reach/rect": "workspace:*",
-		"@reach/utils": "workspace:*",
-		"@reach/visually-hidden": "workspace:*"
+		"@blinq-reach/auto-id": "workspace:*",
+		"@blinq-reach/polymorphic": "workspace:*",
+		"@blinq-reach/portal": "workspace:*",
+		"@blinq-reach/rect": "workspace:*",
+		"@blinq-reach/utils": "workspace:*",
+		"@blinq-reach/visually-hidden": "workspace:*"
 	},
 	"devDependencies": {
 		"@reach-internal/dev": "workspace:*",

@@ -1,5 +1,5 @@
 {
-	"name": "@reach/polymorphic",
+	"name": "@blinq-reach/polymorphic",
 	"version": "0.18.0",
 	"description": "Internal utility types for polymorphism in Reach UI.",
 	"author": "React Training <hello@reacttraining.com>",

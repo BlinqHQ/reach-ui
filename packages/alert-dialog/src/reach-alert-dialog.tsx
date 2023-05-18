@@ -31,18 +31,18 @@
  */
 
 import * as React from "react";
-import { DialogOverlay, DialogContent } from "@reach/dialog";
-import { useId } from "@reach/auto-id";
+import { DialogOverlay, DialogContent } from "@blinq-reach/dialog";
+import { useId } from "@blinq-reach/auto-id";
 import {
 	createContext,
 	getOwnerDocument,
 	makeId,
 	useComposedRefs,
-} from "@reach/utils";
-import type * as Polymorphic from "@reach/polymorphic";
+} from "@blinq-reach/utils";
+import type * as Polymorphic from "@blinq-reach/polymorphic";
 import invariant from "tiny-invariant";
 
-import type { DialogProps, DialogContentProps } from "@reach/dialog";
+import type { DialogProps, DialogContentProps } from "@blinq-reach/dialog";
 
 let [AlertDialogProvider, useAlertDialogCtx] =
 	createContext<AlertDialogContextValue>("AlertDialog");

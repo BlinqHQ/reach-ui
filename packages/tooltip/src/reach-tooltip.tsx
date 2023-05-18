@@ -41,18 +41,18 @@
  */
 
 import * as React from "react";
-import { useId } from "@reach/auto-id";
+import { useId } from "@blinq-reach/auto-id";
 import {
 	getDocumentDimensions,
 	getOwnerDocument,
 	makeId,
 	useComposedRefs,
 	composeEventHandlers,
-} from "@reach/utils";
-import type * as Polymorphic from "@reach/polymorphic";
-import { Portal } from "@reach/portal";
-import { VisuallyHidden } from "@reach/visually-hidden";
-import { useRect } from "@reach/rect";
+} from "@blinq-reach/utils";
+import type * as Polymorphic from "@blinq-reach/polymorphic";
+import { Portal } from "@blinq-reach/portal";
+import { VisuallyHidden } from "@blinq-reach/visually-hidden";
+import { useRect } from "@blinq-reach/rect";
 
 declare const __DEV__: boolean;
 

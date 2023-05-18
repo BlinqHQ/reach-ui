@@ -16,7 +16,7 @@ import {
 	ComboboxList,
 	ComboboxOption,
 	ComboboxOptionText,
-} from "@reach/combobox";
+} from "@blinq-reach/combobox";
 import "@reach/combobox/styles.css";
 
 function Example() {

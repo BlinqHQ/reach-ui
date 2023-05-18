@@ -1,4 +1,12 @@
+# Blinq-maintained Reach UI
+
+This is the [Blinq](https://blinq.me) maintained fork of [Reach UI](https://github.com/reach/reach-ui) with the following changes:
+	- React 18
+
+To use this, install with `@blinq-reach` instead of `@reach`.
+
 # Welcome to Reach UI Development ♿️
+
 
 Thanks for getting involved with Reach UI development!
 

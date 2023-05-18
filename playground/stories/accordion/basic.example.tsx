@@ -4,7 +4,7 @@ import {
 	AccordionItem,
 	AccordionButton,
 	AccordionPanel,
-} from "@reach/accordion";
+} from "@blinq-reach/accordion";
 import { action } from "@storybook/addon-actions";
 import "@reach/accordion/styles.css";
 

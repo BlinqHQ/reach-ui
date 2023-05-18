@@ -6,7 +6,7 @@ import {
 	MenuButton,
 	MenuLink,
 	MenuItem,
-} from "@reach/menu-button";
+} from "@blinq-reach/menu-button";
 import { BrowserRouter as Router, Routes, Link, Route } from "react-router-dom";
 import "@reach/menu-button/styles.css";
 

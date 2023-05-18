@@ -1,5 +1,5 @@
 {
-	"name": "@reach/utils",
+	"name": "@blinq-reach/utils",
 	"version": "0.18.0",
 	"description": "Internal, shared utilities for Reach UI.",
 	"author": "React Training <hello@reacttraining.com>",

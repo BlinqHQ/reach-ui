@@ -1,8 +1,8 @@
 import * as React from "react";
 import PropTypes from "prop-types";
 import Link from "gatsby-link";
-import { VisuallyHidden } from "@reach/visually-hidden";
-import { SkipNavLink, SkipNavContent } from "@reach/skip-nav";
+import { VisuallyHidden } from "@blinq-reach/visually-hidden";
+import { SkipNavLink, SkipNavContent } from "@blinq-reach/skip-nav";
 import Logo from "./Logo";
 import { useMatchMedia } from "./MatchMedia";
 import SEO from "./SEO";

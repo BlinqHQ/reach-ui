@@ -5,12 +5,12 @@ import * as React from "react";
 import type {
 	CustomCheckboxContainerProps,
 	CustomCheckboxInputProps,
-} from "@reach/checkbox";
+} from "@blinq-reach/checkbox";
 import {
 	MixedCheckbox,
 	CustomCheckboxContainer,
 	CustomCheckboxInput,
-} from "@reach/checkbox";
+} from "@blinq-reach/checkbox";
 import { act, cleanup, render, fireEvent } from "@reach-internal/test/utils";
 import { afterEach, describe, expect, it, vi } from "vitest";
 import { axe } from "vitest-axe";

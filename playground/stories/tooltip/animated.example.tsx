@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/accessible-emoji */
 import * as React from "react";
-import { useTooltip, TooltipPopup } from "@reach/tooltip";
+import { useTooltip, TooltipPopup } from "@blinq-reach/tooltip";
 import { useTransition, animated } from "@react-spring/web";
 import "@reach/tooltip/styles.css";
 

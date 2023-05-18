@@ -6,7 +6,7 @@ import {
 	MenuLink,
 	MenuButton,
 	MenuItem,
-} from "@reach/menu-button";
+} from "@blinq-reach/menu-button";
 import styled from "styled-components";
 import "@reach/menu-button/styles.css";
 

@@ -24,9 +24,9 @@
  */
 import * as React from "react";
 import * as ReactDOM from "react-dom";
-import { VisuallyHidden } from "@reach/visually-hidden";
-import { getOwnerDocument, useComposedRefs } from "@reach/utils";
-import type * as Polymorphic from "@reach/polymorphic";
+import { VisuallyHidden } from "@blinq-reach/visually-hidden";
+import { getOwnerDocument, useComposedRefs } from "@blinq-reach/utils";
+import type * as Polymorphic from "@blinq-reach/polymorphic";
 
 /*
  * Singleton state is fine because you don't server render

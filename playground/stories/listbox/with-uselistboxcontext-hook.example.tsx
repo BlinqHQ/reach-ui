@@ -6,9 +6,9 @@ import {
 	ListboxList,
 	ListboxPopover,
 	useListboxContext,
-} from "@reach/listbox";
-import type { ListboxButtonProps } from "@reach/listbox";
-import { VisuallyHidden } from "@reach/visually-hidden";
+} from "@blinq-reach/listbox";
+import type { ListboxButtonProps } from "@blinq-reach/listbox";
+import { VisuallyHidden } from "@blinq-reach/visually-hidden";
 import { action } from "@storybook/addon-actions";
 import { Taco } from "./common";
 import "@reach/listbox/styles.css";

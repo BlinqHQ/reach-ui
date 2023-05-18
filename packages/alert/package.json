@@ -1,5 +1,5 @@
 {
-	"name": "@reach/alert",
+	"name": "@blinq-reach/alert",
 	"version": "0.18.0",
 	"description": "Screen-reader-friendly alert messages.",
 	"author": "React Training <hello@reacttraining.com>",
@@ -13,9 +13,9 @@
 		"build": "tsup"
 	},
 	"dependencies": {
-		"@reach/polymorphic": "workspace:*",
-		"@reach/utils": "workspace:*",
-		"@reach/visually-hidden": "workspace:*"
+		"@blinq-reach/polymorphic": "workspace:*",
+		"@blinq-reach/utils": "workspace:*",
+		"@blinq-reach/visually-hidden": "workspace:*"
 	},
 	"devDependencies": {
 		"@reach-internal/dev": "workspace:*",

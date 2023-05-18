@@ -5,9 +5,9 @@ import * as React from "react";
 import { render, act, fireEvent, cleanup } from "@reach-internal/test/utils";
 import { axe } from "vitest-axe";
 import type { AxeCore } from "vitest-axe";
-import { Alert } from "@reach/alert";
-import { VisuallyHidden } from "@reach/visually-hidden";
-import { usePrevious } from "@reach/utils";
+import { Alert } from "@blinq-reach/alert";
+import { VisuallyHidden } from "@blinq-reach/visually-hidden";
+import { usePrevious } from "@blinq-reach/utils";
 import { describe, it, vi, expect, afterEach } from "vitest";
 
 const MESSAGE_TIMEOUT = 5000;

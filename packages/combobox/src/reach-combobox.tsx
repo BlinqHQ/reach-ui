@@ -29,20 +29,20 @@ import {
 	useIsomorphicLayoutEffect as useLayoutEffect,
 	useStatefulRefValue,
 	useUpdateEffect,
-} from "@reach/utils";
-import type * as Polymorphic from "@reach/polymorphic";
+} from "@blinq-reach/utils";
+import type * as Polymorphic from "@blinq-reach/polymorphic";
 import {
 	createDescendantContext,
 	DescendantProvider,
 	useDescendant,
 	useDescendants,
 	useDescendantsInit,
-} from "@reach/descendants";
+} from "@blinq-reach/descendants";
 import { HighlightWords } from "./utils";
-import { useId } from "@reach/auto-id";
-import { Popover, positionMatchWidth } from "@reach/popover";
-import type { PopoverProps } from "@reach/popover";
-import type { Descendant } from "@reach/descendants";
+import { useId } from "@blinq-reach/auto-id";
+import { Popover, positionMatchWidth } from "@blinq-reach/popover";
+import type { PopoverProps } from "@blinq-reach/popover";
+import type { Descendant } from "@blinq-reach/descendants";
 
 declare const __DEV__: boolean;
 

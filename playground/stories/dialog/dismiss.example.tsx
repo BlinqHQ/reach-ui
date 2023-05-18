@@ -1,5 +1,5 @@
 import * as React from "react";
-import { Dialog } from "@reach/dialog";
+import { Dialog } from "@blinq-reach/dialog";
 import "@reach/dialog/styles.css";
 
 let name = "Dismiss";

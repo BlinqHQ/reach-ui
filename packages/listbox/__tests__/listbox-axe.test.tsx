@@ -5,9 +5,9 @@ import * as React from "react";
 import { cleanup, render, act } from "@reach-internal/test/utils";
 import { axe } from "vitest-axe";
 import type { AxeCore } from "vitest-axe";
-import { Listbox, ListboxOption } from "@reach/listbox";
-import type { ListboxProps } from "@reach/listbox";
-import { VisuallyHidden } from "@reach/visually-hidden";
+import { Listbox, ListboxOption } from "@blinq-reach/listbox";
+import type { ListboxProps } from "@blinq-reach/listbox";
+import { VisuallyHidden } from "@blinq-reach/visually-hidden";
 import { afterEach, describe, expect, it, vi } from "vitest";
 
 afterEach(cleanup);

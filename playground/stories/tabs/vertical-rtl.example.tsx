@@ -6,7 +6,7 @@ import {
 	TabPanels,
 	TabPanel,
 	TabsOrientation,
-} from "@reach/tabs";
+} from "@blinq-reach/tabs";
 import "@reach/tabs/styles.css";
 
 let name = "Vertically oriented tabs, RTL";

@@ -1,5 +1,5 @@
 import * as React from "react";
-import { DialogOverlay, DialogContent } from "@reach/dialog";
+import { DialogOverlay, DialogContent } from "@blinq-reach/dialog";
 import "@reach/dialog/styles.css";
 
 let name = "With Separate Overlay";

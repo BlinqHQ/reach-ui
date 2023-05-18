@@ -1,5 +1,5 @@
 import * as React from "react";
-import type * as Polymorphic from "@reach/polymorphic";
+import type * as Polymorphic from "@blinq-reach/polymorphic";
 
 // The user may want to provide their own ID (maybe there are multiple nav
 // menus on a page a use might want to skip at various points in tabbing?).

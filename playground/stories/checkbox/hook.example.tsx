@@ -1,5 +1,5 @@
 import * as React from "react";
-import { useMixedCheckbox } from "@reach/checkbox";
+import { useMixedCheckbox } from "@blinq-reach/checkbox";
 import "@reach/checkbox/styles.css";
 
 let name = "With useMixedCheckbox hook";

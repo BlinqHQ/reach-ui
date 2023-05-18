@@ -15,7 +15,7 @@ env:
 jobs:
   release:
     name: Release
-    if: github.repository == 'reach/reach-ui'
+    if: github.repository == 'BlinqHQ/reach-ui'
     runs-on: ubuntu-latest
 
     steps:

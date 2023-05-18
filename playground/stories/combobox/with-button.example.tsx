@@ -6,8 +6,8 @@ import {
 	ComboboxPopover,
 	ComboboxOption,
 	ComboboxButton,
-} from "@reach/combobox";
-import { VisuallyHidden } from "@reach/visually-hidden";
+} from "@blinq-reach/combobox";
+import { VisuallyHidden } from "@blinq-reach/visually-hidden";
 import { useCityMatch } from "./utils";
 import "@reach/combobox/styles.css";
 

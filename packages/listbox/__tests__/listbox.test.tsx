@@ -9,7 +9,7 @@ import {
 	fireEvent,
 	keyType,
 } from "@reach-internal/test/utils";
-import type { ListboxProps } from "@reach/listbox";
+import type { ListboxProps } from "@blinq-reach/listbox";
 import {
 	Listbox,
 	ListboxButton,
@@ -17,8 +17,8 @@ import {
 	ListboxPopover,
 	ListboxOption,
 	ListboxList,
-} from "@reach/listbox";
-import { VisuallyHidden } from "@reach/visually-hidden";
+} from "@blinq-reach/listbox";
+import { VisuallyHidden } from "@blinq-reach/visually-hidden";
 import { spy } from "sinon";
 import { afterEach, describe, expect, it, vi } from "vitest";
 

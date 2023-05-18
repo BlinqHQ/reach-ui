@@ -1,5 +1,5 @@
 import * as React from "react";
-import { MixedCheckbox } from "@reach/checkbox";
+import { MixedCheckbox } from "@blinq-reach/checkbox";
 import "@reach/checkbox/styles.css";
 
 const name = "Disabled MixedCheckbox";

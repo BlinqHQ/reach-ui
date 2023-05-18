@@ -1,8 +1,8 @@
-import { assign } from "@reach/machine";
-import { getOwnerDocument } from "@reach/utils";
+import { assign } from "@blinq-reach/machine";
+import { getOwnerDocument } from "@blinq-reach/utils";
 
 import type { ListboxDescendant, ListboxValue } from "./reach-listbox";
-import type { MachineEventWithRefs, StateMachine } from "@reach/machine";
+import type { MachineEventWithRefs, StateMachine } from "@blinq-reach/machine";
 
 ////////////////////////////////////////////////////////////////////////////////
 // States

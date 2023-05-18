@@ -1,5 +1,5 @@
 import * as React from "react";
-import { Menu, MenuList, MenuButton, MenuItem } from "@reach/menu-button";
+import { Menu, MenuList, MenuButton, MenuItem } from "@blinq-reach/menu-button";
 import { action } from "@storybook/addon-actions";
 import "@reach/menu-button/styles.css";
 import "./animate.css";

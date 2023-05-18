@@ -1,5 +1,5 @@
 import * as React from "react";
-import { Slider } from "@reach/slider";
+import { Slider } from "@blinq-reach/slider";
 import { useAudio, timeToMs, msToTime } from "./utils";
 import "@reach/slider/styles.css";
 

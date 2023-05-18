@@ -11,7 +11,7 @@ import {
 	ComboboxList,
 	ComboboxOption,
 	ComboboxPopover,
-} from "@reach/combobox";
+} from "@blinq-reach/combobox";
 import { matchSorter } from "match-sorter";
 import cities from "./cities";
 

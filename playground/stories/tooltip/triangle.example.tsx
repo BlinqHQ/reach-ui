@@ -1,8 +1,8 @@
 /* eslint-disable jsx-a11y/accessible-emoji */
 import * as React from "react";
-import { useTooltip, TooltipPopup } from "@reach/tooltip";
-import type { Position } from "@reach/tooltip";
-import { Portal } from "@reach/portal";
+import { useTooltip, TooltipPopup } from "@blinq-reach/tooltip";
+import type { Position } from "@blinq-reach/tooltip";
+import { Portal } from "@blinq-reach/portal";
 import "@reach/tooltip/styles.css";
 
 let name = "Triangle";

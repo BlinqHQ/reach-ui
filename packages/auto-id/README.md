@@ -9,7 +9,7 @@ Autogenerate IDs to facilitate WAI-ARIA and server rendering.
 A string can be supplied as an argument to be `useId` in lieu of the auto-generated ID. This is handy for accepting user-provided prop IDs that need to be deterministic.
 
 ```jsx
-import { useId } from "@reach/auto-id";
+import { useId } from "@blinq-reach/auto-id";
 
 function FormField(props) {
 	const id = useId(props.id);

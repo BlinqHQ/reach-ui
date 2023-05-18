@@ -6,8 +6,8 @@ import {
 	TabPanels,
 	TabPanel,
 	useTabsContext,
-} from "@reach/tabs";
-import { useRect } from "@reach/rect";
+} from "@blinq-reach/tabs";
+import { useRect } from "@blinq-reach/rect";
 import "@reach/tabs/styles.css";
 
 let name = "Animated Bar";

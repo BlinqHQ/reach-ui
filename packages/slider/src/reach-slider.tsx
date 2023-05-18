@@ -23,7 +23,7 @@
 /* eslint-disable jsx-a11y/no-static-element-interactions */
 
 import * as React from "react";
-import { useId } from "@reach/auto-id";
+import { useId } from "@blinq-reach/auto-id";
 import {
 	composeEventHandlers,
 	createContext,
@@ -36,8 +36,8 @@ import {
 	useControlledState,
 	useIsomorphicLayoutEffect as useLayoutEffect,
 	useStableLayoutCallback,
-} from "@reach/utils";
-import type * as Polymorphic from "@reach/polymorphic";
+} from "@blinq-reach/utils";
+import type * as Polymorphic from "@blinq-reach/polymorphic";
 
 declare const __DEV__: boolean;
 

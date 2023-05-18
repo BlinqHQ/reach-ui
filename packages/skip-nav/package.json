@@ -1,5 +1,5 @@
 {
-	"name": "@reach/skip-nav",
+	"name": "@blinq-reach/skip-nav",
 	"version": "0.18.0",
 	"description": "Skip navigation links for screen reader and keyboard users.",
 	"author": "React Training <hello@reacttraining.com>",
@@ -16,7 +16,7 @@
 		"build": "tsup"
 	},
 	"dependencies": {
-		"@reach/polymorphic": "workspace:*"
+		"@blinq-reach/polymorphic": "workspace:*"
 	},
 	"devDependencies": {
 		"@reach-internal/dev": "workspace:*",

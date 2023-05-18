@@ -1,5 +1,5 @@
 {
-	"name": "@reach/rect",
+	"name": "@blinq-reach/rect",
 	"version": "0.18.0",
 	"description": "Measure React elements position in the DOM",
 	"author": "React Training <hello@reacttraining.com>",
@@ -16,8 +16,8 @@
 		"build": "tsup"
 	},
 	"dependencies": {
-		"@reach/observe-rect": "1.2.0",
-		"@reach/utils": "workspace:*"
+		"@blinq-reach/observe-rect": "1.2.0",
+		"@blinq-reach/utils": "workspace:*"
 	},
 	"devDependencies": {
 		"@reach-internal/dev": "workspace:*",

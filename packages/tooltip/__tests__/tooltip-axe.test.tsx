@@ -5,7 +5,7 @@ import * as React from "react";
 import { cleanup, render, fireEvent, act } from "@reach-internal/test/utils";
 import { axe } from "vitest-axe";
 import type { AxeCore } from "vitest-axe";
-import { Tooltip, LEAVE_TIMEOUT, MOUSE_REST_TIMEOUT } from "@reach/tooltip";
+import { Tooltip, LEAVE_TIMEOUT, MOUSE_REST_TIMEOUT } from "@blinq-reach/tooltip";
 import { afterEach, describe, expect, it, vi } from "vitest";
 
 afterEach(cleanup);

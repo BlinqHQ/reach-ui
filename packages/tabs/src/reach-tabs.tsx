@@ -24,8 +24,8 @@ import {
 	useDescendantKeyDown,
 	useDescendantsInit,
 	useDescendants,
-} from "@reach/descendants";
-import type { Descendant } from "@reach/descendants";
+} from "@blinq-reach/descendants";
+import type { Descendant } from "@blinq-reach/descendants";
 import {
 	getOwnerDocument,
 	getComputedStyle,
@@ -39,9 +39,9 @@ import {
 	noop,
 	useComposedRefs,
 	composeEventHandlers,
-} from "@reach/utils";
-import type * as Polymorphic from "@reach/polymorphic";
-import { useId } from "@reach/auto-id";
+} from "@blinq-reach/utils";
+import type * as Polymorphic from "@blinq-reach/polymorphic";
+import { useId } from "@blinq-reach/auto-id";
 
 const TabsDescendantsContext = createDescendantContext<TabDescendant>(
 	"TabsDescendantsContext"

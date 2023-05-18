@@ -3,7 +3,7 @@ import {
 	useForceUpdate,
 	useIsomorphicLayoutEffect as useLayoutEffect,
 	noop,
-} from "@reach/utils";
+} from "@blinq-reach/utils";
 
 declare const __DEV__: boolean;
 

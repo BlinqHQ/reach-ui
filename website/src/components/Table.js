@@ -1,5 +1,5 @@
 import * as React from "react";
-import { useId } from "@reach/auto-id";
+import { useId } from "@blinq-reach/auto-id";
 import cx from "clsx";
 
 const TableContext = React.createContext({});

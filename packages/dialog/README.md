@@ -7,7 +7,7 @@
 An accessible dialog or modal window.
 
 ```jsx
-import { Dialog } from "@reach/dialog";
+import { Dialog } from "@blinq-reach/dialog";
 import "@reach/dialog/styles.css";
 
 function Example(props) {

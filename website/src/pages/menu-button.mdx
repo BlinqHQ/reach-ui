@@ -73,7 +73,7 @@ import {
 	MenuItems,
 	MenuPopover,
 	MenuLink,
-} from "@reach/menu-button";
+} from "@blinq-reach/menu-button";
 import "@reach/menu-button/styles.css";
 ```
 
@@ -593,7 +593,7 @@ Handles linking to a different page in the menu. By default it renders `<a>`, bu
 Must be a direct child of a `<MenuList>`.
 
 ```jsx
-import { Link } from "@reach/router";
+import { Link } from "@blinq-reach/router";
 <MenuList>
 	<MenuLink as={Link} to="somewhere/else">
 		Somewhere w/ Reach Router
@@ -780,7 +780,7 @@ However, if you have no text and only an icon, please make sure your icon has a 
 </MenuButton>
 
 // add screen reader only text for svgs
-import { VisuallyHidden } from "@reach/visually-hidden"
+import { VisuallyHidden } from "@blinq-reach/visually-hidden"
 <MenuButton>
   <VisuallyHidden>Actions</VisuallyHidden>
   <svg aria-hidden>

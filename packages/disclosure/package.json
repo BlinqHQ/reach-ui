@@ -1,5 +1,5 @@
 {
-	"name": "@reach/disclosure",
+	"name": "@blinq-reach/disclosure",
 	"version": "0.18.0",
 	"description": "Accessible React disclosure component",
 	"author": "React Training <hello@reacttraining.com>",
@@ -13,9 +13,9 @@
 		"build": "tsup"
 	},
 	"dependencies": {
-		"@reach/auto-id": "workspace:*",
-		"@reach/polymorphic": "workspace:*",
-		"@reach/utils": "workspace:*"
+		"@blinq-reach/auto-id": "workspace:*",
+		"@blinq-reach/polymorphic": "workspace:*",
+		"@blinq-reach/utils": "workspace:*"
 	},
 	"devDependencies": {
 		"@reach-internal/dev": "workspace:*",

@@ -11,7 +11,7 @@ The `Tab` and `TabPanel` elements are associated by their order in the tree. Non
 You can render any other elements you want inside of `Tabs`, but `TabList` should only render `Tab` elements, and `TabPanels` should only render `TabPanel` elements.
 
 ```jsx
-import { Tabs, TabList, Tab, TabPanels, TabPanel } from "@reach/tabs";
+import { Tabs, TabList, Tab, TabPanels, TabPanel } from "@blinq-reach/tabs";
 import "@reach/tabs/styles.css";
 
 function Example() {

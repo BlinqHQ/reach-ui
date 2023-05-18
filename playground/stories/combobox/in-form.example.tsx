@@ -5,8 +5,8 @@ import {
 	ComboboxList,
 	ComboboxOption,
 	ComboboxPopover,
-} from "@reach/combobox";
-import { Alert } from "@reach/alert";
+} from "@blinq-reach/combobox";
+import { Alert } from "@blinq-reach/alert";
 import { useCityMatch } from "./utils";
 import "@reach/combobox/styles.css";
 

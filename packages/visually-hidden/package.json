@@ -1,5 +1,5 @@
 {
-	"name": "@reach/visually-hidden",
+	"name": "@blinq-reach/visually-hidden",
 	"version": "0.18.0",
 	"description": "Render text that is announced to screen readers but visually hidden.",
 	"author": "React Training <hello@reacttraining.com>",
@@ -16,7 +16,7 @@
 		"build": "tsup"
 	},
 	"dependencies": {
-		"@reach/polymorphic": "workspace:*"
+		"@blinq-reach/polymorphic": "workspace:*"
 	},
 	"devDependencies": {
 		"@reach-internal/dev": "workspace:*",

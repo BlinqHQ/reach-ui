@@ -1,5 +1,5 @@
 {
-	"name": "@reach/popover",
+	"name": "@blinq-reach/popover",
 	"version": "0.18.0",
 	"description": "Render a portal positioned relative to another element.",
 	"author": "React Training <hello@reacttraining.com>",
@@ -13,10 +13,10 @@
 		"directory": "packages/popover"
 	},
 	"dependencies": {
-		"@reach/polymorphic": "workspace:*",
-		"@reach/portal": "workspace:*",
-		"@reach/rect": "workspace:*",
-		"@reach/utils": "workspace:*",
+		"@blinq-reach/polymorphic": "workspace:*",
+		"@blinq-reach/portal": "workspace:*",
+		"@blinq-reach/rect": "workspace:*",
+		"@blinq-reach/utils": "workspace:*",
 		"tabbable": "^5.3.3"
 	},
 	"devDependencies": {

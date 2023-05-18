@@ -5,7 +5,7 @@ import {
 	ComboboxList,
 	ComboboxOption,
 	ComboboxPopover,
-} from "@reach/combobox";
+} from "@blinq-reach/combobox";
 import "@reach/combobox/styles.css";
 
 let name = "Open on focus";

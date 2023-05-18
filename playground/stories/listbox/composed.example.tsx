@@ -1,12 +1,12 @@
 import * as React from "react";
-import { VisuallyHidden } from "@reach/visually-hidden";
+import { VisuallyHidden } from "@blinq-reach/visually-hidden";
 import {
 	ListboxInput,
 	ListboxButton,
 	ListboxOption,
 	ListboxList,
 	ListboxPopover,
-} from "@reach/listbox";
+} from "@blinq-reach/listbox";
 import { Taco } from "./common";
 import "@reach/listbox/styles.css";
 

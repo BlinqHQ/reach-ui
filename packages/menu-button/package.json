@@ -1,5 +1,5 @@
 {
-	"name": "@reach/menu-button",
+	"name": "@blinq-reach/menu-button",
 	"version": "0.18.0",
 	"description": "Accessible React button dropdown menu.",
 	"author": "React Training <hello@reacttraining.com>",
@@ -16,10 +16,10 @@
 		"build": "tsup"
 	},
 	"dependencies": {
-		"@reach/dropdown": "workspace:*",
-		"@reach/polymorphic": "workspace:*",
-		"@reach/popover": "workspace:*",
-		"@reach/utils": "workspace:*"
+		"@blinq-reach/dropdown": "workspace:*",
+		"@blinq-reach/polymorphic": "workspace:*",
+		"@blinq-reach/popover": "workspace:*",
+		"@blinq-reach/utils": "workspace:*"
 	},
 	"devDependencies": {
 		"@reach-internal/dev": "workspace:*",

@@ -1,5 +1,5 @@
 import * as React from "react";
-import { CustomCheckbox } from "@reach/checkbox";
+import { CustomCheckbox } from "@blinq-reach/checkbox";
 import "@reach/checkbox/styles.css";
 import "./basic-custom.css";
 

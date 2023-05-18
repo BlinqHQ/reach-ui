@@ -1,5 +1,5 @@
 {
-	"name": "@reach/window-size",
+	"name": "@blinq-reach/window-size",
 	"version": "0.18.0",
 	"description": "Measure the window size in React",
 	"author": "React Training <hello@reacttraining.com>",
@@ -16,7 +16,7 @@
 		"build": "tsup"
 	},
 	"dependencies": {
-		"@reach/utils": "workspace:*"
+		"@blinq-reach/utils": "workspace:*"
 	},
 	"devDependencies": {
 		"@reach-internal/dev": "workspace:*",

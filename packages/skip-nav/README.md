@@ -9,7 +9,7 @@ Skip navigation link for screen reader and keyboard users. Because the main cont
 If the user does not navigate with the keyboard, they won't see the link.
 
 ```jsx
-import { SkipNavLink, SkipNavContent } from "@reach/skip-nav";
+import { SkipNavLink, SkipNavContent } from "@blinq-reach/skip-nav";
 import "@reach/skip-nav/styles.css";
 
 ReactDOM.return(

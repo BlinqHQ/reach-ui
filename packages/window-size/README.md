@@ -7,7 +7,7 @@
 Measure the current window dimensions.
 
 ```jsx
-import WindowSize, { useWindowSize } from "@reach/window-size";
+import WindowSize, { useWindowSize } from "@blinq-reach/window-size";
 
 function Example() {
 	const { width, height } = useWindowSize();

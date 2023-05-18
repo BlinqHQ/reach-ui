@@ -8,7 +8,7 @@ An accessible listbox for custom select inputs.
 
 ```jsx
 import * as React from "react";
-import { Listbox, ListboxOption } from "@reach/listbox";
+import { Listbox, ListboxOption } from "@blinq-reach/listbox";
 import "@reach/listbox/styles.css";
 
 function Example(props) {
